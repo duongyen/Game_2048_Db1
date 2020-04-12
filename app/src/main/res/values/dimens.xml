@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_box">40dp</dimen>
+    <dimen name="SCORE">17dp</dimen>
+    <dimen name="text_score">13dp</dimen>
+    <dimen name="ball_radius">30dp</dimen>
+    <dimen name="font_size">16sp</dimen>
+    <dimen name="border">2dp</dimen>
+
+    <dimen name="box_size_small">30sp</dimen>
+    <dimen name="box_size_medium">25sp</dimen>
+    <dimen name="box_size_large">20sp</dimen>
+</resources>

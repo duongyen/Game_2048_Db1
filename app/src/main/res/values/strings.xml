@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game2048</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">
+        Lưu Đắc Hạnh\n
+        Lê Duy Hoàng\n
+        Nguyễn Hoàng Anh\n
+        Nguyễn Thành Công\n
+        Dương Thị Yến
+    </string>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity"
+    android:background="@drawable/bgmainscreen">
+
+    <Button
+        android:id="@+id/buttonPlay"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/button_main"
+        android:text="PLAY"
+        android:textStyle="bold"
+        android:textSize="@dimen/SCORE"/>
+
+    <Button
+        android:id="@+id/buttonHow"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/button_main"
+        android:text="ABOUT US"
+        android:textStyle="bold"
+        android:textSize="@dimen/SCORE"/>
+</LinearLayout>
